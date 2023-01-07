@@ -1,0 +1,6 @@
+#!/bin/bash
+
+GITSC_HOME=$(dirname -- $(readlink -f $BASH_SOURCE))
+node $GITSC_HOME/index.js $@
+
+# vi: ft=bash
