@@ -35,5 +35,5 @@ $ gitsc setup
 To use GitSC, place your named git configs in the `$INSTALL_DIR/configs`
 folder.
 
-- To list all availiable configs use `gitsc list`.
+- To list all available configs use `gitsc list`.
 - To use a config use `gitsc use <CONFIG NAME>`
